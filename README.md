@@ -131,6 +131,7 @@ Your voice is your power. Use it to protect, not to hurt.</h1>
 
 
             <p class="text-2xl font-bold text-gray-300 mb-8">• Social Bullying</p>
+            <p class="text-xl font-medium text-gray-300 mb-8">This happens in face-to-face interactions and is all about damaging someone’s reputation or relationships. It’s often subtle, but the impact can be deep</p>
             <p class="text-2xl font-medium text-gray-300 mb-8">Examples:</p>
             <p class="text-xl font-medium text-gray-300 mb-8">* Excluding someone from a group on purpose</p>
             <p class="text-xl font-medium text-gray-300 mb-8">* Spreading rumors or gossip</p>
